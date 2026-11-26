@@ -1,0 +1,11 @@
+Recording,Actual,Predicted,Confidence,Correct
+255,Picking up an object,Drinking water,0.4383023601770401,False
+194,Sitting down,Sitting down,0.6179776035944621,True
+22,Drinking water,Drinking water,0.7207716755072275,True
+164,Picking up an object,Picking up an object,0.6459133435090383,True
+111,Sitting down,Sitting down,0.9341317629814149,True
+109,Walking,Walking,0.8395052513281505,True
+179,Falling,Falling,0.7917146608829497,True
+24,Picking up an object,Picking up an object,0.6098611565430959,True
+51,Picking up an object,Picking up an object,0.6492154122193654,True
+218,Walking,Walking,0.9978326717217764,True
