@@ -1,0 +1,23 @@
+{
+    "model_name": "RadarHAR_Hybrid_Ensemble",
+    "random_forest_weight": 0.65,
+    "cnn_weight": 0.35,
+    "random_forest_model": "random_forest.joblib",
+    "cnn_model": "best_cnn_v2.keras",
+    "input_shape": [
+        128,
+        128,
+        1
+    ],
+    "handcrafted_features": 2029,
+    "class_names": [
+        "Walking",
+        "Sitting down",
+        "Standing up",
+        "Drinking water",
+        "Picking up an object",
+        "Falling"
+    ],
+    "validation_accuracy": 0.9102990033222591,
+    "validation_macro_f1": 0.9142198876187134
+}
